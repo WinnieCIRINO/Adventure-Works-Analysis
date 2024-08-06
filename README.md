@@ -25,6 +25,6 @@ The analysis focuses on understanding the sales trends, identifying key metrics,
 - PowerBI
 
 ## Power BI Report
-![image](https://github.com/user-attachments/assets/1c3d2131-a876-4492-9854-9b4522497bf0)(https://app.powerbi.com/groups/me/reports/f44517a4-e316-46f7-bde5-28c738e01b72/ReportSection1656a5b77dbb211cb8e4?experience=power-bi)
+[![image](https://github.com/user-attachments/assets/1c3d2131-a876-4492-9854-9b4522497bf0)](https://app.powerbi.com/groups/me/reports/f44517a4-e316-46f7-bde5-28c738e01b72/ReportSection1656a5b77dbb211cb8e4?experience=power-bi)
 
 
