@@ -1,6 +1,6 @@
 # Adventure Works Sales Data Analysis
 
-This repository contains the analysis of the Adventure Works Sales dataset using Excel, SQL, and Power BI.
+This repository contains the analysis of the Adventure Works Sales dataset focusing on understanding the sales trends, identifying key metrics, and providing insights for business decisions.
 
 ## Dataset 
 
@@ -11,11 +11,7 @@ You can access the dataset for this project [here](https://drive.google.com/driv
 - SQL: Used for wrangling and exploring the data
 - PowerBI: Used for creating visualization for the presentation.
 
-## Analysis and Visualization Overview
-
-The analysis focuses on understanding the sales trends, identifying key metrics, and providing insights for business decisions.
-
-## Power BI Report
+## Analysis and Visualization (Power BI Report)
 
 [![image](https://github.com/user-attachments/assets/1c3d2131-a876-4492-9854-9b4522497bf0)](https://www.novypro.com/profile_projects/winnie-cirino?Popup=memberProject&Data=1693063722773x128199956621697810)
 
