@@ -7,9 +7,9 @@ This repository contains the analysis of the Adventure Works Sales dataset using
 You can access the dataset for this project [here](https://drive.google.com/drive/folders/1WVU6gnAyh2wBXytbGuaqcpxR18_Nrvmb?usp=drive_link)
 
 ## Requirements
-- Excel
-- SQL Database (e.g., Microsoft SQL Server, MySQL, PostgreSQL)
-- PowerBI
+- Excel: Used for cleaning
+- SQL: Used for wrangling and exploring the data
+- PowerBI: Used for creating visualization for the presentation.
 
 ## Analysis and Visualization Overview
 
