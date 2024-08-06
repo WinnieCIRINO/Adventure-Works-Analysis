@@ -14,12 +14,16 @@ You can access the dataset for this project [here](https://drive.google.com/driv
 - `report.pbix`: Power BI report file.
 
 
-## Analysis Overview
+## Analysis and Visualization Overview
 
 The analysis focuses on understanding the sales trends, identifying key metrics, and providing insights for business decisions.
 
-### Requirements
+
+## Requirements
 - Excel
 - SQL Database (e.g., Microsoft SQL Server, MySQL, PostgreSQL)
 - PowerBI
+
+## Power BI Report
+![image](https://github.com/user-attachments/assets/1c3d2131-a876-4492-9854-9b4522497bf0)
 
