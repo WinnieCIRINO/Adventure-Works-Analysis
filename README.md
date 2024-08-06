@@ -2,6 +2,11 @@
 
 This repository contains the analysis of the Adventure Works Sales dataset using Excel, SQL, and Power BI.
 
+## Dataset 
+
+You can access the dataset for this project [here](https://drive.google.com/drive/folders/1WVU6gnAyh2wBXytbGuaqcpxR18_Nrvmb?usp=drive_link)
+
+
 ## Files
 
 - `dataset.xlsx`: The original dataset used for analysis.
